@@ -34,10 +34,10 @@ namespace AzureBlobStorage.Service
          }*/
 
 
-
         /// <summary>
         /// In this method the BlobHttpHeaders object to set the Content-Disposition header to "inline" and included it in the BlobUploadOptions.
         /// this will retrun a url which only display the image in the browser. without this option the url won't display the image in the browser instead it will download the image.
+        /// above method will download the image when we use the link.
         /// </summary>
         /// <param name="file"></param>
         /// <returns></returns>
