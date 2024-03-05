@@ -1,9 +1,0 @@
-{
-    "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
-    "BlobConnection": "DefaultEndpointsProtocol=https;AccountName=examplefunctions;AccountKey=fOg+0K6nzqIm1/ILEAR8PUYlBOYBMRDlzgfY3B91PzGqzFAmEsS5hvPw16YJIki23+lu/kZJIco7+AStmrrJCw==;EndpointSuffix=core.windows.net",
-    "ServiceBusConnection": "Endpoint=sb://simplemessagingusingservicebus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=SfcZIuOGN1c1dtqrJHlLg5hQGyQCWs39s+ASbFnifXE="
-  }
-}
