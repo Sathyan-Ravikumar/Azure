@@ -7,6 +7,11 @@
     "apis1": {
       "ignored": "true",
       "type": "apis"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "ConnectionStrings:AzureBlob",
+      "dynamicId": null
     }
   }
 }
